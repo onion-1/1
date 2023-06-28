@@ -1,0 +1,32 @@
+=============== Jun 3, 2023 (HKT) ===============
+17:00:05.953808 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:00:05.972920 db@open opening
+17:00:05.975383 version@stat F·[] S·0B[] Sc·[]
+17:00:05.979873 db@janitor F·2 G·0
+17:00:05.979984 db@open done T·6.96879ms
+17:00:06.029150 db@close closing
+17:00:06.029327 db@close done T·173.557µs
+=============== Jun 3, 2023 (HKT) ===============
+17:12:24.238464 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:12:24.238548 version@stat F·[] S·0B[] Sc·[]
+17:12:24.238581 db@open opening
+17:12:24.238616 journal@recovery F·1
+17:12:24.240460 journal@recovery recovering @1
+17:12:24.253713 memdb@flush created L0@2 N·14 S·1KiB "\x1c=\xaf..\x84\xccc,v2":"\xda\xe5N..\x0fj\b,v3"
+17:12:24.255617 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:12:24.273345 db@janitor F·3 G·0
+17:12:24.273393 db@open done T·34.800527ms
+17:13:35.006757 db@close closing
+17:13:35.006870 db@close done T·114.638µs
+=============== Jun 3, 2023 (HKT) ===============
+17:14:07.678955 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:14:07.679098 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+17:14:07.679136 db@open opening
+17:14:07.679172 journal@recovery F·1
+17:14:07.680797 journal@recovery recovering @3
+17:14:07.685923 memdb@flush created L0@5 N·13 S·721B "Dat..ion,v16":"unc..own,v24"
+17:14:07.687790 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+17:14:07.704467 db@janitor F·4 G·0
+17:14:07.704543 db@open done T·25.375679ms
+17:33:54.452269 db@close closing
+17:33:54.452348 db@close done T·79.621µs

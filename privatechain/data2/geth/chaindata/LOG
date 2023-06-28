@@ -1,0 +1,40 @@
+=============== Jun 3, 2023 (HKT) ===============
+16:38:57.981422 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:38:57.993168 db@open opening
+16:38:57.994010 version@stat F·[] S·0B[] Sc·[]
+16:38:57.998330 db@janitor F·2 G·0
+16:38:57.998412 db@open done T·5.210164ms
+16:38:58.051003 db@close closing
+16:38:58.051149 db@close done T·146.47µs
+=============== Jun 3, 2023 (HKT) ===============
+16:39:53.264819 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:39:53.264949 version@stat F·[] S·0B[] Sc·[]
+16:39:53.264987 db@open opening
+16:39:53.265026 journal@recovery F·1
+16:39:53.267028 journal@recovery recovering @1
+16:39:53.273940 memdb@flush created L0@2 N·14 S·1KiB "H\x12\xd8..툉,v7":"\xeb@\xf6..\x9fe\x91,v2"
+16:39:53.276069 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+16:39:53.295526 db@janitor F·3 G·0
+16:39:53.295572 db@open done T·30.573389ms
+16:39:53.344791 db@close closing
+16:39:53.344908 db@close done T·115.384µs
+=============== Jun 3, 2023 (HKT) ===============
+16:40:25.660404 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:40:25.660509 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+16:40:25.660542 db@open opening
+16:40:25.660579 journal@recovery F·1
+16:40:25.662001 journal@recovery recovering @3
+16:40:25.666748 memdb@flush created L0@5 N·10 S·678B "Dat..ion,v16":"unc..own,v24"
+16:40:25.668257 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+16:40:25.684172 db@janitor F·4 G·0
+16:40:25.684214 db@open done T·23.660317ms
+=============== Jun 3, 2023 (HKT) ===============
+16:43:54.969015 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:43:54.969114 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+16:43:54.969122 db@open opening
+16:43:54.969148 journal@recovery F·1
+16:43:54.970800 journal@recovery recovering @6
+16:43:54.975907 memdb@flush created L0@8 N·1 S·203B "unc..own,v27":"unc..own,v27"
+16:43:54.978346 version@stat F·[3] S·1KiB[1KiB] Sc·[0.75]
+16:43:54.995430 db@janitor F·5 G·0
+16:43:54.995494 db@open done T·26.347104ms
